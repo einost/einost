@@ -1,6 +1,6 @@
 # Hi, I'm Sittinon Tone-on 👋
 
-**Senior Frontend Developer** based in Bangkok, Thailand
+**Full Stack Developer** based in Bangkok, Thailand
 
 ## Experience
 
